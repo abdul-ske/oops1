@@ -14,6 +14,7 @@ namespace oops1
             int x=10;
             Console.WriteLine(x);
             Console.WriteLine("gud");
+            Console.WriteLine("bad");
         }
        
     }
